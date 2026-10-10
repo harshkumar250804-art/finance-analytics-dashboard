@@ -1,0 +1,1201 @@
+Date,Category,Type,Amount,Payment Mode,Description
+2023-01-01,Travel,Expense,4164.36,Bank Transfer,Fuel expense
+2023-01-01,Rent,Expense,15759.18,Bank Transfer,Rent payment to landlord
+2023-01-01,Shopping,Expense,2032.09,UPI,Online shopping order
+2023-01-02,Education,Expense,6747.77,Bank Transfer,Book purchase
+2023-01-02,Travel,Expense,4505.45,Credit Card,Flight booking
+2023-01-08,Food,Expense,796.34,Credit Card,Restaurant bill
+2023-01-08,Entertainment,Expense,1508.27,Cash,Concert tickets
+2023-01-09,Travel,Expense,3129.53,UPI,Flight booking
+2023-01-12,Entertainment,Expense,764.65,Debit Card,Concert tickets
+2023-01-16,Shopping,Expense,1253.95,Debit Card,Electronics purchase
+2023-01-17,Food,Expense,599.93,Cash,Online food order
+2023-01-17,Bills,Expense,523.14,Bank Transfer,Internet bill
+2023-01-19,Entertainment,Expense,391.21,Credit Card,Movie tickets
+2023-01-19,Entertainment,Expense,964.93,Debit Card,Streaming subscription
+2023-01-20,Freelancing,Income,17292.57,Cash,Gig work income
+2023-01-20,Food,Expense,313.01,Bank Transfer,Groceries
+2023-01-20,Entertainment,Expense,1606.38,Debit Card,Concert tickets
+2023-01-21,Food,Expense,969.87,UPI,Restaurant bill
+2023-01-23,Healthcare,Expense,6217.88,Debit Card,Health checkup
+2023-01-24,Food,Expense,275.06,UPI,Online food order
+2023-01-26,Bills,Expense,3095.43,UPI,Water bill
+2023-01-27,Entertainment,Expense,998.11,Bank Transfer,Streaming subscription
+2023-01-27,Food,Expense,1017.56,Debit Card,Online food order
+2023-01-27,Food,Expense,602.97,Credit Card,Restaurant bill
+2023-01-28,Travel,Expense,602.95,Credit Card,Bus ticket
+2023-01-28,Shopping,Expense,3499.1,Bank Transfer,Online shopping order
+2023-02-02,Travel,Expense,343.03,UPI,Bus ticket
+2023-02-02,Shopping,Expense,2182.42,UPI,Clothing purchase
+2023-02-03,Food,Expense,1033.8,Bank Transfer,Online food order
+2023-02-04,Entertainment,Expense,618.07,Cash,Concert tickets
+2023-02-04,Shopping,Expense,1980.98,Debit Card,Online shopping order
+2023-02-05,Education,Expense,5269.96,Bank Transfer,Tuition fee
+2023-02-06,Other,Expense,1703.31,Credit Card,Miscellaneous expense
+2023-02-08,Investment,Income,11777.96,Cash,Mutual fund returns
+2023-02-08,Travel,Expense,4583.5,UPI,Flight booking
+2023-02-08,Food,Expense,226.36,UPI,Restaurant bill
+2023-02-08,Shopping,Expense,3342.56,Debit Card,Clothing purchase
+2023-02-10,Food,Expense,1055.57,Debit Card,Snacks and beverages
+2023-02-10,Bills,Expense,1367.1,Credit Card,Internet bill
+2023-02-11,Bills,Expense,1252.57,Debit Card,Water bill
+2023-02-11,Other,Expense,734.58,Credit Card,Miscellaneous expense
+2023-02-12,Entertainment,Expense,891.65,Debit Card,Concert tickets
+2023-02-12,Food,Expense,547.04,Bank Transfer,Restaurant bill
+2023-02-13,Rent,Expense,15268.14,Debit Card,Rent payment to landlord
+2023-02-13,Food,Expense,1142.61,Bank Transfer,Groceries
+2023-02-14,Food,Expense,1121.62,Bank Transfer,Groceries
+2023-02-14,Rent,Expense,14976.43,Credit Card,Monthly house rent
+2023-02-15,Freelancing,Income,16583.35,Cash,Freelance project payment
+2023-02-15,Food,Expense,1393.9,UPI,Restaurant bill
+2023-02-15,Food,Expense,663.17,UPI,Restaurant bill
+2023-02-16,Freelancing,Income,7367.64,Debit Card,Client payment received
+2023-02-16,Healthcare,Expense,275.44,UPI,Health checkup
+2023-02-17,Food,Expense,442.78,Credit Card,Groceries
+2023-02-19,Travel,Expense,3377.46,Cash,Cab fare
+2023-02-20,Shopping,Expense,3424.47,Debit Card,Clothing purchase
+2023-02-20,Food,Expense,650.06,Bank Transfer,Snacks and beverages
+2023-02-20,Education,Expense,9150.86,Credit Card,Book purchase
+2023-02-22,Bills,Expense,1212.45,Bank Transfer,Water bill
+2023-02-23,Bills,Expense,850.69,Debit Card,Internet bill
+2023-02-25,Food,Expense,1319.19,UPI,Restaurant bill
+2023-02-25,Education,Expense,6896.96,Cash,Course fee
+2023-02-25,Rent,Expense,16165.89,Credit Card,Rent payment to landlord
+2023-02-26,Travel,Expense,2598.13,Bank Transfer,Bus ticket
+2023-02-27,Travel,Expense,3867.44,UPI,Flight booking
+2023-02-27,Food,Expense,420.67,Cash,Online food order
+2023-02-27,Freelancing,Income,18593.69,Debit Card,Client payment received
+2023-02-27,Entertainment,Expense,479.32,Debit Card,Movie tickets
+2023-02-28,Food,Expense,205.06,Credit Card,Online food order
+2023-02-28,Entertainment,Expense,267.83,Credit Card,Concert tickets
+2023-03-02,Investment,Income,14732.75,UPI,Dividend received
+2023-03-04,Other,Expense,2995.9,Credit Card,Gift purchase
+2023-03-05,Travel,Expense,2287.92,UPI,Bus ticket
+2023-03-06,Food,Expense,1021.61,Bank Transfer,Snacks and beverages
+2023-03-07,Food,Expense,857.63,Cash,Groceries
+2023-03-09,Bills,Expense,1653.92,Bank Transfer,Internet bill
+2023-03-09,Shopping,Expense,1502.6,Bank Transfer,Electronics purchase
+2023-03-10,Other,Expense,364.55,Cash,Miscellaneous expense
+2023-03-10,Food,Expense,221.84,Bank Transfer,Snacks and beverages
+2023-03-11,Salary,Income,35400.0,UPI,Monthly salary credited
+2023-03-12,Healthcare,Expense,4841.27,UPI,Medicine purchase
+2023-03-12,Other,Expense,2643.27,Debit Card,Gift purchase
+2023-03-12,Travel,Expense,1303.11,Credit Card,Bus ticket
+2023-03-12,Salary,Income,42000.0,Debit Card,Monthly salary credited
+2023-03-12,Shopping,Expense,5874.51,Bank Transfer,Clothing purchase
+2023-03-13,Food,Expense,1453.64,Debit Card,Online food order
+2023-03-14,Travel,Expense,4205.39,Cash,Bus ticket
+2023-03-14,Travel,Expense,262.81,UPI,Flight booking
+2023-03-14,Investment,Income,3819.73,Cash,Stock sale profit
+2023-03-15,Healthcare,Expense,6025.75,UPI,Doctor consultation
+2023-03-16,Bills,Expense,1751.95,Bank Transfer,Electricity bill
+2023-03-16,Food,Expense,113.04,Bank Transfer,Groceries
+2023-03-17,Other,Expense,1091.24,Credit Card,Miscellaneous expense
+2023-03-18,Food,Expense,1058.2,Debit Card,Groceries
+2023-03-18,Other,Expense,163.22,Cash,Miscellaneous expense
+2023-03-18,Education,Expense,7638.59,Debit Card,Course fee
+2023-03-18,Healthcare,Expense,7572.47,Cash,Doctor consultation
+2023-03-19,Shopping,Expense,1102.31,UPI,Electronics purchase
+2023-03-20,Shopping,Expense,3571.35,Bank Transfer,Online shopping order
+2023-03-21,Salary,Income,60900.0,Bank Transfer,Salary payment
+2023-03-22,Salary,Income,45400.0,Credit Card,Company payroll
+2023-03-22,Salary,Income,64600.0,Credit Card,Monthly salary credited
+2023-03-23,Food,Expense,691.14,UPI,Online food order
+2023-03-23,Food,Expense,952.64,Credit Card,Snacks and beverages
+2023-03-23,Other,Expense,1457.37,Cash,Gift purchase
+2023-03-23,Shopping,Expense,3726.93,Cash,Clothing purchase
+2023-03-24,Food,Expense,1015.23,Cash,Groceries
+2023-03-25,Food,Expense,319.88,UPI,Groceries
+2023-03-28,Entertainment,Expense,877.52,Credit Card,Concert tickets
+2023-03-29,Food,Expense,262.5,UPI,Online food order
+2023-03-29,Bills,Expense,2332.2,Debit Card,Electricity bill
+2023-03-30,Food,Expense,795.88,UPI,Online food order
+2023-03-31,Food,Expense,168.64,Credit Card,Restaurant bill
+2023-03-31,Bills,Expense,3054.61,Bank Transfer,Water bill
+2023-04-01,Bills,Expense,3375.82,Debit Card,Internet bill
+2023-04-02,Travel,Expense,2320.93,Debit Card,Flight booking
+2023-04-03,Entertainment,Expense,1441.54,Bank Transfer,Concert tickets
+2023-04-03,Healthcare,Expense,1429.4,Debit Card,Health checkup
+2023-04-03,Education,Expense,6342.58,Bank Transfer,Book purchase
+2023-04-04,Rent,Expense,8051.95,Debit Card,Rent payment to landlord
+2023-04-05,Healthcare,Expense,4377.96,UPI,Doctor consultation
+2023-04-06,Entertainment,Expense,253.17,UPI,Concert tickets
+2023-04-06,Education,Expense,4039.91,Debit Card,Course fee
+2023-04-06,Entertainment,Expense,1283.27,UPI,Concert tickets
+2023-04-06,Bills,Expense,1909.98,Debit Card,Mobile recharge
+2023-04-08,Shopping,Expense,663.62,Credit Card,Electronics purchase
+2023-04-09,Travel,Expense,1003.5,Bank Transfer,Cab fare
+2023-04-10,Food,Expense,713.43,Credit Card,Online food order
+2023-04-10,Food,Expense,170.85,Credit Card,Snacks and beverages
+2023-04-10,Other,Expense,393.55,UPI,Donation
+2023-04-12,Travel,Expense,4748.43,UPI,Bus ticket
+2023-04-12,Other,Expense,2721.23,Credit Card,Donation
+2023-04-12,Salary,Income,55700.0,Cash,Monthly salary credited
+2023-04-13,Entertainment,Expense,2323.58,Bank Transfer,Movie tickets
+2023-04-13,Shopping,Expense,4935.12,Cash,Online shopping order
+2023-04-13,Other,Expense,818.79,UPI,Gift purchase
+2023-04-14,Shopping,Expense,4076.15,Debit Card,Electronics purchase
+2023-04-14,Food,Expense,931.52,Credit Card,Groceries
+2023-04-15,Food,Expense,1047.38,Bank Transfer,Groceries
+2023-04-15,Freelancing,Income,16470.14,UPI,Freelance project payment
+2023-04-15,Food,Expense,494.96,UPI,Snacks and beverages
+2023-04-16,Education,Expense,5445.49,Debit Card,Course fee
+2023-04-16,Healthcare,Expense,2644.14,Debit Card,Doctor consultation
+2023-04-17,Bills,Expense,1083.83,UPI,Internet bill
+2023-04-17,Bills,Expense,3778.41,UPI,Mobile recharge
+2023-04-19,Food,Expense,796.83,Bank Transfer,Restaurant bill
+2023-04-19,Shopping,Expense,5261.96,Debit Card,Electronics purchase
+2023-04-20,Bills,Expense,940.4,UPI,Mobile recharge
+2023-04-20,Food,Expense,1139.38,UPI,Online food order
+2023-04-20,Entertainment,Expense,459.13,Cash,Concert tickets
+2023-04-21,Food,Expense,1108.58,Cash,Snacks and beverages
+2023-04-21,Travel,Expense,2268.45,Debit Card,Fuel expense
+2023-04-23,Food,Expense,1471.86,Bank Transfer,Online food order
+2023-04-23,Healthcare,Expense,5356.25,Cash,Doctor consultation
+2023-04-24,Bills,Expense,3423.31,Credit Card,Water bill
+2023-04-25,Travel,Expense,561.17,UPI,Cab fare
+2023-04-25,Shopping,Expense,5595.86,Debit Card,Clothing purchase
+2023-04-26,Other,Expense,2674.02,Credit Card,Miscellaneous expense
+2023-04-27,Other,Expense,1219.04,Bank Transfer,Donation
+2023-04-27,Shopping,Expense,3324.45,UPI,Online shopping order
+2023-04-27,Food,Expense,746.03,Cash,Restaurant bill
+2023-04-28,Shopping,Expense,3514.63,UPI,Online shopping order
+2023-04-29,Other,Expense,2643.41,Debit Card,Miscellaneous expense
+2023-05-01,Other,Expense,2265.95,Credit Card,Miscellaneous expense
+2023-05-01,Bills,Expense,3081.14,UPI,Internet bill
+2023-05-01,Education,Expense,7868.5,UPI,Course fee
+2023-05-02,Travel,Expense,3373.33,Credit Card,Fuel expense
+2023-05-02,Healthcare,Expense,1592.09,Bank Transfer,Medicine purchase
+2023-05-03,Entertainment,Expense,2312.44,Credit Card,Concert tickets
+2023-05-05,Shopping,Expense,5915.26,UPI,Clothing purchase
+2023-05-05,Food,Expense,902.87,Bank Transfer,Snacks and beverages
+2023-05-06,Food,Expense,1428.62,Credit Card,Groceries
+2023-05-07,Food,Expense,925.4,Credit Card,Online food order
+2023-05-08,Healthcare,Expense,2423.49,UPI,Medicine purchase
+2023-05-10,Food,Expense,1138.41,Bank Transfer,Groceries
+2023-05-10,Other,Expense,1556.64,Bank Transfer,Gift purchase
+2023-05-11,Entertainment,Expense,1724.77,Bank Transfer,Movie tickets
+2023-05-12,Travel,Expense,4880.4,Credit Card,Fuel expense
+2023-05-13,Entertainment,Expense,1166.65,Cash,Movie tickets
+2023-05-14,Other,Expense,2305.93,Bank Transfer,Donation
+2023-05-15,Food,Expense,395.67,Cash,Restaurant bill
+2023-05-15,Food,Expense,1040.37,Debit Card,Snacks and beverages
+2023-05-15,Travel,Expense,632.64,Debit Card,Fuel expense
+2023-05-16,Other,Expense,1221.83,Bank Transfer,Gift purchase
+2023-05-16,Other,Expense,2945.87,UPI,Donation
+2023-05-16,Bills,Expense,1218.15,Cash,Internet bill
+2023-05-16,Investment,Income,4120.32,Debit Card,Dividend received
+2023-05-17,Freelancing,Income,13469.88,Credit Card,Freelance project payment
+2023-05-17,Rent,Expense,14415.76,UPI,Monthly house rent
+2023-05-18,Shopping,Expense,5974.7,Bank Transfer,Electronics purchase
+2023-05-18,Healthcare,Expense,5500.73,Debit Card,Medicine purchase
+2023-05-18,Freelancing,Income,7637.34,UPI,Client payment received
+2023-05-19,Shopping,Expense,2036.55,Credit Card,Online shopping order
+2023-05-19,Travel,Expense,4853.8,Bank Transfer,Bus ticket
+2023-05-21,Travel,Expense,2210.36,Cash,Cab fare
+2023-05-21,Food,Expense,316.92,Debit Card,Groceries
+2023-05-21,Investment,Income,575.13,Bank Transfer,Dividend received
+2023-05-22,Shopping,Expense,3576.39,Credit Card,Clothing purchase
+2023-05-22,Food,Expense,813.34,Cash,Groceries
+2023-05-22,Healthcare,Expense,7009.41,Cash,Health checkup
+2023-05-23,Bills,Expense,2716.68,UPI,Mobile recharge
+2023-05-24,Shopping,Expense,4805.84,Cash,Electronics purchase
+2023-05-25,Bills,Expense,2932.75,Cash,Internet bill
+2023-05-27,Salary,Income,52000.0,Credit Card,Monthly salary credited
+2023-05-27,Entertainment,Expense,1958.28,Cash,Concert tickets
+2023-05-28,Other,Expense,964.36,Debit Card,Miscellaneous expense
+2023-05-28,Healthcare,Expense,6485.05,Cash,Health checkup
+2023-05-29,Food,Expense,1482.54,Bank Transfer,Online food order
+2023-05-29,Salary,Income,36600.0,Cash,Monthly salary credited
+2023-05-29,Shopping,Expense,4040.52,Bank Transfer,Clothing purchase
+2023-05-30,Food,Expense,1117.91,Debit Card,Snacks and beverages
+2023-06-01,Food,Expense,1204.1,Bank Transfer,Groceries
+2023-06-01,Shopping,Expense,4039.53,Cash,Clothing purchase
+2023-06-01,Salary,Income,36700.0,Debit Card,Monthly salary credited
+2023-06-02,Food,Expense,148.51,Bank Transfer,Restaurant bill
+2023-06-03,Shopping,Expense,3751.41,UPI,Online shopping order
+2023-06-03,Investment,Income,2648.9,Bank Transfer,Stock sale profit
+2023-06-03,Food,Expense,762.18,Cash,Restaurant bill
+2023-06-03,Food,Expense,868.33,Bank Transfer,Snacks and beverages
+2023-06-04,Shopping,Expense,5759.02,Credit Card,Clothing purchase
+2023-06-05,Food,Expense,678.14,UPI,Snacks and beverages
+2023-06-06,Shopping,Expense,1471.32,Cash,Online shopping order
+2023-06-06,Shopping,Expense,4326.59,Cash,Online shopping order
+2023-06-06,Healthcare,Expense,5094.08,Credit Card,Health checkup
+2023-06-06,Shopping,Expense,1418.29,UPI,Online shopping order
+2023-06-07,Salary,Income,55400.0,Debit Card,Salary payment
+2023-06-08,Shopping,Expense,527.66,Debit Card,Electronics purchase
+2023-06-08,Other,Expense,2784.72,UPI,Miscellaneous expense
+2023-06-08,Travel,Expense,4449.99,Cash,Flight booking
+2023-06-08,Shopping,Expense,4043.4,UPI,Clothing purchase
+2023-06-08,Rent,Expense,12260.72,Bank Transfer,Rent payment to landlord
+2023-06-08,Freelancing,Income,10088.92,Debit Card,Gig work income
+2023-06-09,Food,Expense,218.04,Credit Card,Online food order
+2023-06-09,Other,Expense,1655.53,Credit Card,Donation
+2023-06-09,Bills,Expense,3152.07,Cash,Electricity bill
+2023-06-10,Salary,Income,50200.0,Credit Card,Salary payment
+2023-06-11,Food,Expense,1125.29,Credit Card,Snacks and beverages
+2023-06-11,Investment,Income,6898.65,Cash,Mutual fund returns
+2023-06-11,Bills,Expense,758.52,Debit Card,Mobile recharge
+2023-06-11,Food,Expense,735.21,Debit Card,Restaurant bill
+2023-06-11,Bills,Expense,2038.62,Credit Card,Internet bill
+2023-06-13,Food,Expense,797.57,Bank Transfer,Snacks and beverages
+2023-06-13,Food,Expense,1238.87,Bank Transfer,Online food order
+2023-06-14,Food,Expense,1476.95,Debit Card,Restaurant bill
+2023-06-14,Shopping,Expense,524.61,Credit Card,Clothing purchase
+2023-06-15,Entertainment,Expense,385.65,Bank Transfer,Streaming subscription
+2023-06-17,Entertainment,Expense,2417.09,Cash,Concert tickets
+2023-06-18,Travel,Expense,1774.96,Bank Transfer,Flight booking
+2023-06-18,Other,Expense,1861.22,Credit Card,Miscellaneous expense
+2023-06-18,Entertainment,Expense,2378.0,Credit Card,Movie tickets
+2023-06-18,Investment,Income,7640.12,Credit Card,Dividend received
+2023-06-19,Bills,Expense,2498.44,Credit Card,Water bill
+2023-06-21,Other,Expense,2919.28,UPI,Miscellaneous expense
+2023-06-22,Shopping,Expense,3673.31,Bank Transfer,Clothing purchase
+2023-06-24,Travel,Expense,337.14,Debit Card,Fuel expense
+2023-06-24,Salary,Income,54100.0,Cash,Salary payment
+2023-06-25,Salary,Income,37500.0,Credit Card,Company payroll
+2023-06-27,Bills,Expense,3056.73,UPI,Electricity bill
+2023-06-27,Entertainment,Expense,1297.45,Bank Transfer,Movie tickets
+2023-06-27,Rent,Expense,12596.64,Bank Transfer,Rent payment to landlord
+2023-06-27,Rent,Expense,9761.0,Bank Transfer,Rent payment to landlord
+2023-06-28,Bills,Expense,2975.14,Bank Transfer,Mobile recharge
+2023-06-28,Food,Expense,872.67,Debit Card,Snacks and beverages
+2023-06-29,Entertainment,Expense,430.69,UPI,Concert tickets
+2023-06-29,Entertainment,Expense,1255.68,Credit Card,Streaming subscription
+2023-06-29,Entertainment,Expense,621.87,Bank Transfer,Streaming subscription
+2023-06-29,Other,Expense,1956.84,Credit Card,Miscellaneous expense
+2023-06-30,Education,Expense,9372.26,Cash,Book purchase
+2023-07-01,Bills,Expense,1596.95,Cash,Electricity bill
+2023-07-01,Other,Expense,2656.11,Cash,Miscellaneous expense
+2023-07-03,Bills,Expense,2454.48,Bank Transfer,Internet bill
+2023-07-03,Education,Expense,2620.26,Bank Transfer,Course fee
+2023-07-04,Food,Expense,1190.52,Credit Card,Online food order
+2023-07-06,Education,Expense,977.7,Credit Card,Book purchase
+2023-07-06,Healthcare,Expense,1265.67,Cash,Health checkup
+2023-07-08,Food,Expense,828.85,Bank Transfer,Restaurant bill
+2023-07-10,Entertainment,Expense,2351.03,Debit Card,Movie tickets
+2023-07-10,Travel,Expense,1154.6,Credit Card,Cab fare
+2023-07-12,Shopping,Expense,3255.1,Bank Transfer,Online shopping order
+2023-07-12,Travel,Expense,4216.14,Credit Card,Fuel expense
+2023-07-15,Shopping,Expense,4385.69,Cash,Online shopping order
+2023-07-17,Investment,Income,5075.45,Bank Transfer,Stock sale profit
+2023-07-17,Salary,Income,61300.0,UPI,Monthly salary credited
+2023-07-17,Shopping,Expense,3299.29,UPI,Electronics purchase
+2023-07-18,Entertainment,Expense,153.72,Cash,Streaming subscription
+2023-07-18,Other,Expense,959.11,Debit Card,Miscellaneous expense
+2023-07-18,Freelancing,Income,7720.15,Credit Card,Client payment received
+2023-07-18,Healthcare,Expense,2778.02,Debit Card,Health checkup
+2023-07-19,Shopping,Expense,3152.72,Credit Card,Electronics purchase
+2023-07-20,Food,Expense,362.56,Credit Card,Restaurant bill
+2023-07-21,Education,Expense,3000.73,Cash,Tuition fee
+2023-07-22,Food,Expense,342.9,UPI,Groceries
+2023-07-22,Shopping,Expense,3080.81,Bank Transfer,Clothing purchase
+2023-07-22,Healthcare,Expense,3516.08,Bank Transfer,Doctor consultation
+2023-07-23,Other,Expense,320.39,UPI,Miscellaneous expense
+2023-07-23,Shopping,Expense,1171.18,UPI,Electronics purchase
+2023-07-25,Freelancing,Income,16205.39,Bank Transfer,Client payment received
+2023-07-26,Education,Expense,1517.02,UPI,Course fee
+2023-07-27,Investment,Income,8079.31,Bank Transfer,Stock sale profit
+2023-07-27,Education,Expense,533.56,Debit Card,Course fee
+2023-07-28,Food,Expense,562.37,Cash,Snacks and beverages
+2023-07-29,Other,Expense,2042.21,Debit Card,Miscellaneous expense
+2023-07-30,Investment,Income,10895.31,Credit Card,Dividend received
+2023-07-30,Healthcare,Expense,4394.48,Credit Card,Health checkup
+2023-08-01,Investment,Income,8632.86,Credit Card,Stock sale profit
+2023-08-01,Other,Expense,1410.56,Credit Card,Gift purchase
+2023-08-02,Bills,Expense,2154.89,Debit Card,Mobile recharge
+2023-08-03,Salary,Income,42500.0,Cash,Salary payment
+2023-08-03,Rent,Expense,14701.75,Cash,Monthly house rent
+2023-08-03,Shopping,Expense,4638.8,UPI,Electronics purchase
+2023-08-03,Food,Expense,973.83,Debit Card,Online food order
+2023-08-03,Food,Expense,956.88,Cash,Groceries
+2023-08-04,Bills,Expense,2846.17,UPI,Internet bill
+2023-08-04,Food,Expense,1104.66,UPI,Online food order
+2023-08-05,Bills,Expense,1025.84,UPI,Mobile recharge
+2023-08-05,Food,Expense,1174.29,Debit Card,Online food order
+2023-08-07,Shopping,Expense,3213.69,UPI,Electronics purchase
+2023-08-07,Rent,Expense,14280.8,UPI,Rent payment to landlord
+2023-08-07,Freelancing,Income,11105.92,UPI,Client payment received
+2023-08-08,Food,Expense,578.43,Credit Card,Restaurant bill
+2023-08-08,Bills,Expense,2387.32,Bank Transfer,Internet bill
+2023-08-10,Food,Expense,1134.05,Debit Card,Online food order
+2023-08-11,Food,Expense,1456.19,Bank Transfer,Groceries
+2023-08-12,Food,Expense,1352.04,Debit Card,Restaurant bill
+2023-08-12,Healthcare,Expense,4710.83,Cash,Medicine purchase
+2023-08-12,Education,Expense,9746.1,UPI,Tuition fee
+2023-08-13,Entertainment,Expense,563.33,Bank Transfer,Streaming subscription
+2023-08-14,Food,Expense,290.93,Credit Card,Online food order
+2023-08-15,Other,Expense,1978.19,Credit Card,Donation
+2023-08-15,Entertainment,Expense,932.71,UPI,Movie tickets
+2023-08-15,Food,Expense,963.64,Debit Card,Restaurant bill
+2023-08-16,Other,Expense,2468.44,Debit Card,Miscellaneous expense
+2023-08-16,Salary,Income,38900.0,Credit Card,Salary payment
+2023-08-16,Other,Expense,2252.86,UPI,Miscellaneous expense
+2023-08-17,Rent,Expense,13163.72,Debit Card,Rent payment to landlord
+2023-08-17,Travel,Expense,4207.14,Cash,Fuel expense
+2023-08-19,Salary,Income,51100.0,UPI,Salary payment
+2023-08-20,Entertainment,Expense,1779.78,Debit Card,Streaming subscription
+2023-08-22,Bills,Expense,970.35,Credit Card,Mobile recharge
+2023-08-22,Food,Expense,412.09,UPI,Snacks and beverages
+2023-08-22,Food,Expense,538.87,Debit Card,Online food order
+2023-08-24,Other,Expense,713.11,Bank Transfer,Gift purchase
+2023-08-24,Entertainment,Expense,1576.6,Debit Card,Movie tickets
+2023-08-26,Food,Expense,503.35,Debit Card,Snacks and beverages
+2023-08-26,Other,Expense,2413.49,UPI,Miscellaneous expense
+2023-08-27,Food,Expense,1374.12,Cash,Online food order
+2023-08-27,Entertainment,Expense,361.96,Cash,Streaming subscription
+2023-08-28,Freelancing,Income,18630.4,Bank Transfer,Gig work income
+2023-08-29,Shopping,Expense,749.33,Credit Card,Electronics purchase
+2023-08-29,Freelancing,Income,14110.32,UPI,Freelance project payment
+2023-08-29,Entertainment,Expense,1878.26,Debit Card,Movie tickets
+2023-08-30,Food,Expense,877.48,Credit Card,Restaurant bill
+2023-08-30,Travel,Expense,2486.06,Cash,Flight booking
+2023-08-30,Shopping,Expense,5176.07,Cash,Electronics purchase
+2023-08-30,Bills,Expense,3985.98,Bank Transfer,Mobile recharge
+2023-08-31,Healthcare,Expense,2553.76,UPI,Health checkup
+2023-08-31,Other,Expense,582.3,Credit Card,Gift purchase
+2023-09-01,Salary,Income,52700.0,Cash,Monthly salary credited
+2023-09-01,Education,Expense,2560.3,Credit Card,Book purchase
+2023-09-01,Food,Expense,687.74,Cash,Restaurant bill
+2023-09-01,Entertainment,Expense,965.0,Debit Card,Movie tickets
+2023-09-02,Bills,Expense,702.67,Cash,Internet bill
+2023-09-02,Salary,Income,60400.0,Bank Transfer,Company payroll
+2023-09-03,Entertainment,Expense,719.78,Bank Transfer,Movie tickets
+2023-09-03,Bills,Expense,2232.11,Cash,Water bill
+2023-09-04,Shopping,Expense,1526.32,Debit Card,Clothing purchase
+2023-09-04,Food,Expense,893.37,Credit Card,Online food order
+2023-09-05,Investment,Income,7263.85,Debit Card,Mutual fund returns
+2023-09-05,Travel,Expense,3649.01,Debit Card,Flight booking
+2023-09-06,Entertainment,Expense,2380.01,UPI,Streaming subscription
+2023-09-06,Investment,Income,629.48,Cash,Stock sale profit
+2023-09-07,Entertainment,Expense,2473.73,Bank Transfer,Movie tickets
+2023-09-08,Education,Expense,4010.51,UPI,Book purchase
+2023-09-08,Travel,Expense,984.33,Credit Card,Fuel expense
+2023-09-09,Travel,Expense,2596.65,Debit Card,Fuel expense
+2023-09-10,Food,Expense,490.61,Debit Card,Restaurant bill
+2023-09-10,Food,Expense,1142.98,Bank Transfer,Online food order
+2023-09-10,Food,Expense,1109.26,Credit Card,Restaurant bill
+2023-09-11,Healthcare,Expense,5506.67,Bank Transfer,Doctor consultation
+2023-09-12,Other,Expense,1215.91,Credit Card,Miscellaneous expense
+2023-09-12,Shopping,Expense,3047.0,Credit Card,Clothing purchase
+2023-09-12,Freelancing,Income,19431.2,Credit Card,Gig work income
+2023-09-12,Education,Expense,3034.65,Cash,Book purchase
+2023-09-12,Food,Expense,109.56,Credit Card,Restaurant bill
+2023-09-12,Entertainment,Expense,520.59,Cash,Concert tickets
+2023-09-12,Bills,Expense,2436.89,Bank Transfer,Mobile recharge
+2023-09-13,Food,Expense,1324.28,Cash,Snacks and beverages
+2023-09-13,Shopping,Expense,1230.64,Credit Card,Online shopping order
+2023-09-13,Education,Expense,2713.44,Debit Card,Course fee
+2023-09-13,Food,Expense,1033.71,Debit Card,Snacks and beverages
+2023-09-13,Food,Expense,1270.87,Debit Card,Restaurant bill
+2023-09-13,Salary,Income,62500.0,Cash,Salary payment
+2023-09-14,Food,Expense,1244.15,Cash,Groceries
+2023-09-15,Salary,Income,41100.0,Credit Card,Monthly salary credited
+2023-09-15,Shopping,Expense,5460.42,Cash,Clothing purchase
+2023-09-15,Food,Expense,881.32,Bank Transfer,Restaurant bill
+2023-09-19,Rent,Expense,15733.29,Bank Transfer,Monthly house rent
+2023-09-19,Education,Expense,7826.87,Bank Transfer,Course fee
+2023-09-19,Food,Expense,1033.58,Credit Card,Online food order
+2023-09-21,Other,Expense,1098.01,Credit Card,Miscellaneous expense
+2023-09-22,Food,Expense,576.47,Bank Transfer,Online food order
+2023-09-23,Entertainment,Expense,542.36,UPI,Concert tickets
+2023-09-24,Food,Expense,1085.65,UPI,Online food order
+2023-09-24,Entertainment,Expense,998.26,Bank Transfer,Concert tickets
+2023-09-26,Bills,Expense,1065.54,Credit Card,Internet bill
+2023-09-26,Shopping,Expense,4123.0,Credit Card,Electronics purchase
+2023-09-27,Salary,Income,42400.0,Cash,Salary payment
+2023-09-27,Healthcare,Expense,4713.33,Bank Transfer,Doctor consultation
+2023-09-29,Shopping,Expense,2229.8,Credit Card,Electronics purchase
+2023-09-29,Travel,Expense,383.63,Bank Transfer,Flight booking
+2023-09-29,Education,Expense,1365.8,Bank Transfer,Book purchase
+2023-09-30,Bills,Expense,3393.21,Cash,Electricity bill
+2023-10-01,Shopping,Expense,5738.0,Debit Card,Electronics purchase
+2023-10-03,Shopping,Expense,5413.08,Cash,Online shopping order
+2023-10-03,Entertainment,Expense,1872.4,Cash,Movie tickets
+2023-10-04,Rent,Expense,9022.31,Cash,Monthly house rent
+2023-10-06,Food,Expense,427.06,UPI,Restaurant bill
+2023-10-07,Bills,Expense,1022.62,Debit Card,Electricity bill
+2023-10-07,Shopping,Expense,2784.27,Cash,Online shopping order
+2023-10-07,Travel,Expense,4186.27,Debit Card,Flight booking
+2023-10-08,Education,Expense,1386.73,Debit Card,Book purchase
+2023-10-09,Investment,Income,5273.52,Credit Card,Stock sale profit
+2023-10-10,Travel,Expense,2694.5,Cash,Flight booking
+2023-10-10,Freelancing,Income,16034.11,Debit Card,Gig work income
+2023-10-11,Bills,Expense,654.3,Debit Card,Water bill
+2023-10-11,Food,Expense,416.81,UPI,Snacks and beverages
+2023-10-11,Freelancing,Income,13530.71,Debit Card,Client payment received
+2023-10-12,Travel,Expense,601.27,Cash,Bus ticket
+2023-10-12,Education,Expense,6387.78,Bank Transfer,Course fee
+2023-10-12,Food,Expense,170.49,UPI,Snacks and beverages
+2023-10-14,Healthcare,Expense,3715.69,Bank Transfer,Doctor consultation
+2023-10-14,Travel,Expense,357.04,Debit Card,Bus ticket
+2023-10-14,Freelancing,Income,8894.27,Credit Card,Freelance project payment
+2023-10-14,Other,Expense,754.19,Debit Card,Gift purchase
+2023-10-15,Other,Expense,2538.14,Debit Card,Gift purchase
+2023-10-17,Healthcare,Expense,5863.2,Bank Transfer,Health checkup
+2023-10-18,Food,Expense,720.42,UPI,Restaurant bill
+2023-10-19,Food,Expense,955.53,Bank Transfer,Restaurant bill
+2023-10-19,Entertainment,Expense,1550.04,Bank Transfer,Movie tickets
+2023-10-19,Other,Expense,1129.82,Bank Transfer,Gift purchase
+2023-10-21,Food,Expense,487.31,Debit Card,Snacks and beverages
+2023-10-23,Food,Expense,296.42,Debit Card,Snacks and beverages
+2023-10-23,Investment,Income,3945.78,Cash,Dividend received
+2023-10-24,Bills,Expense,3948.28,UPI,Electricity bill
+2023-10-26,Shopping,Expense,3200.57,Debit Card,Online shopping order
+2023-10-26,Shopping,Expense,5038.31,Cash,Online shopping order
+2023-10-26,Healthcare,Expense,4471.99,Debit Card,Health checkup
+2023-10-28,Entertainment,Expense,992.39,Credit Card,Movie tickets
+2023-10-29,Entertainment,Expense,449.27,Cash,Concert tickets
+2023-10-29,Food,Expense,958.39,Cash,Restaurant bill
+2023-10-29,Food,Expense,749.26,Cash,Snacks and beverages
+2023-10-30,Investment,Income,5829.39,UPI,Dividend received
+2023-10-30,Entertainment,Expense,1484.29,UPI,Movie tickets
+2023-10-30,Other,Expense,2265.02,Debit Card,Miscellaneous expense
+2023-10-30,Shopping,Expense,3460.15,UPI,Online shopping order
+2023-10-31,Shopping,Expense,5420.21,UPI,Online shopping order
+2023-11-01,Other,Expense,2336.41,UPI,Donation
+2023-11-03,Food,Expense,777.92,Cash,Online food order
+2023-11-03,Salary,Income,42800.0,UPI,Monthly salary credited
+2023-11-03,Food,Expense,1364.79,Cash,Online food order
+2023-11-04,Rent,Expense,16454.19,Bank Transfer,Monthly house rent
+2023-11-04,Travel,Expense,379.38,Bank Transfer,Flight booking
+2023-11-04,Travel,Expense,4286.54,UPI,Fuel expense
+2023-11-05,Bills,Expense,3476.03,Bank Transfer,Electricity bill
+2023-11-06,Other,Expense,119.05,UPI,Miscellaneous expense
+2023-11-06,Shopping,Expense,1532.0,Debit Card,Clothing purchase
+2023-11-07,Healthcare,Expense,2625.4,Credit Card,Health checkup
+2023-11-07,Other,Expense,1384.71,Debit Card,Miscellaneous expense
+2023-11-07,Food,Expense,114.78,Bank Transfer,Restaurant bill
+2023-11-08,Travel,Expense,990.35,Debit Card,Bus ticket
+2023-11-08,Shopping,Expense,4709.96,Debit Card,Online shopping order
+2023-11-08,Food,Expense,1135.41,UPI,Snacks and beverages
+2023-11-09,Food,Expense,1097.84,Debit Card,Snacks and beverages
+2023-11-09,Shopping,Expense,4438.13,UPI,Online shopping order
+2023-11-10,Travel,Expense,3528.6,UPI,Fuel expense
+2023-11-11,Food,Expense,933.06,Bank Transfer,Online food order
+2023-11-11,Shopping,Expense,3592.61,Credit Card,Electronics purchase
+2023-11-11,Food,Expense,688.66,Debit Card,Online food order
+2023-11-12,Healthcare,Expense,6322.04,Credit Card,Medicine purchase
+2023-11-12,Bills,Expense,3031.48,Credit Card,Mobile recharge
+2023-11-12,Shopping,Expense,3135.01,Cash,Online shopping order
+2023-11-12,Travel,Expense,3585.28,Debit Card,Cab fare
+2023-11-13,Education,Expense,7041.05,Bank Transfer,Course fee
+2023-11-16,Travel,Expense,3266.48,UPI,Fuel expense
+2023-11-16,Salary,Income,52300.0,Credit Card,Salary payment
+2023-11-17,Other,Expense,1831.22,Bank Transfer,Gift purchase
+2023-11-18,Food,Expense,710.95,Bank Transfer,Groceries
+2023-11-18,Shopping,Expense,2617.12,Bank Transfer,Online shopping order
+2023-11-19,Other,Expense,2394.12,UPI,Gift purchase
+2023-11-19,Food,Expense,1396.46,Credit Card,Online food order
+2023-11-19,Food,Expense,121.92,UPI,Restaurant bill
+2023-11-19,Shopping,Expense,1738.67,Cash,Online shopping order
+2023-11-19,Other,Expense,1695.24,Debit Card,Gift purchase
+2023-11-21,Investment,Income,9813.91,Credit Card,Mutual fund returns
+2023-11-21,Entertainment,Expense,1277.54,Bank Transfer,Concert tickets
+2023-11-21,Travel,Expense,1446.37,Bank Transfer,Fuel expense
+2023-11-22,Food,Expense,1389.45,Bank Transfer,Restaurant bill
+2023-11-23,Other,Expense,945.2,Credit Card,Donation
+2023-11-23,Food,Expense,935.96,Cash,Online food order
+2023-11-23,Other,Expense,571.26,Bank Transfer,Donation
+2023-11-24,Other,Expense,2036.74,Cash,Donation
+2023-11-25,Travel,Expense,692.47,Debit Card,Fuel expense
+2023-11-26,Education,Expense,6278.83,Cash,Course fee
+2023-11-26,Shopping,Expense,5256.73,UPI,Electronics purchase
+2023-11-27,Education,Expense,6235.28,Cash,Course fee
+2023-11-27,Entertainment,Expense,1016.14,Credit Card,Movie tickets
+2023-11-27,Shopping,Expense,5021.56,Debit Card,Electronics purchase
+2023-11-27,Travel,Expense,2167.06,Debit Card,Cab fare
+2023-11-28,Shopping,Expense,2870.05,UPI,Online shopping order
+2023-11-28,Travel,Expense,4899.2,Debit Card,Fuel expense
+2023-11-28,Entertainment,Expense,1759.13,Bank Transfer,Movie tickets
+2023-11-29,Shopping,Expense,1279.68,Bank Transfer,Online shopping order
+2023-11-30,Entertainment,Expense,1033.73,Credit Card,Streaming subscription
+2023-12-01,Shopping,Expense,468.87,Debit Card,Online shopping order
+2023-12-01,Food,Expense,572.5,Credit Card,Online food order
+2023-12-03,Freelancing,Income,17342.14,Bank Transfer,Client payment received
+2023-12-03,Bills,Expense,1751.35,Credit Card,Mobile recharge
+2023-12-05,Education,Expense,1173.14,UPI,Book purchase
+2023-12-05,Other,Expense,1907.15,Cash,Donation
+2023-12-06,Salary,Income,55700.0,Cash,Company payroll
+2023-12-06,Shopping,Expense,515.95,Cash,Clothing purchase
+2023-12-06,Shopping,Expense,1491.35,Bank Transfer,Clothing purchase
+2023-12-06,Freelancing,Income,5699.91,UPI,Client payment received
+2023-12-07,Shopping,Expense,3445.93,Bank Transfer,Online shopping order
+2023-12-07,Entertainment,Expense,1988.61,Credit Card,Concert tickets
+2023-12-07,Shopping,Expense,2028.17,Cash,Clothing purchase
+2023-12-08,Shopping,Expense,2293.01,UPI,Clothing purchase
+2023-12-10,Other,Expense,1997.86,UPI,Gift purchase
+2023-12-13,Shopping,Expense,4169.72,Cash,Electronics purchase
+2023-12-14,Shopping,Expense,4863.38,Cash,Clothing purchase
+2023-12-14,Entertainment,Expense,1460.9,Debit Card,Movie tickets
+2023-12-14,Entertainment,Expense,2408.91,Credit Card,Concert tickets
+2023-12-15,Bills,Expense,1472.55,UPI,Mobile recharge
+2023-12-15,Healthcare,Expense,5792.11,Debit Card,Doctor consultation
+2023-12-15,Healthcare,Expense,4920.32,Bank Transfer,Health checkup
+2023-12-16,Bills,Expense,1886.17,Bank Transfer,Electricity bill
+2023-12-17,Other,Expense,1286.66,Bank Transfer,Gift purchase
+2023-12-17,Bills,Expense,766.1,UPI,Internet bill
+2023-12-17,Other,Expense,2988.8,Credit Card,Gift purchase
+2023-12-18,Healthcare,Expense,7862.61,Cash,Health checkup
+2023-12-18,Shopping,Expense,5831.8,Credit Card,Clothing purchase
+2023-12-18,Salary,Income,59500.0,Credit Card,Company payroll
+2023-12-19,Food,Expense,396.43,Bank Transfer,Restaurant bill
+2023-12-19,Bills,Expense,949.17,Bank Transfer,Water bill
+2023-12-20,Shopping,Expense,5986.91,Credit Card,Clothing purchase
+2023-12-21,Food,Expense,317.17,UPI,Groceries
+2023-12-21,Entertainment,Expense,276.19,Credit Card,Movie tickets
+2023-12-21,Investment,Income,6962.18,Bank Transfer,Stock sale profit
+2023-12-22,Salary,Income,46800.0,UPI,Salary payment
+2023-12-23,Travel,Expense,1889.53,Credit Card,Bus ticket
+2023-12-23,Shopping,Expense,5214.54,Cash,Online shopping order
+2023-12-24,Education,Expense,4860.48,UPI,Book purchase
+2023-12-25,Travel,Expense,1852.4,Debit Card,Cab fare
+2023-12-26,Education,Expense,5687.23,Cash,Book purchase
+2023-12-27,Food,Expense,336.97,Bank Transfer,Snacks and beverages
+2023-12-27,Investment,Income,8417.2,UPI,Stock sale profit
+2023-12-27,Entertainment,Expense,2376.76,Bank Transfer,Movie tickets
+2023-12-28,Salary,Income,42200.0,Credit Card,Monthly salary credited
+2023-12-29,Shopping,Expense,1523.88,UPI,Online shopping order
+2023-12-29,Healthcare,Expense,762.19,Cash,Medicine purchase
+2023-12-29,Travel,Expense,1483.16,Credit Card,Cab fare
+2023-12-29,Salary,Income,51600.0,Bank Transfer,Company payroll
+2023-12-31,Shopping,Expense,3452.32,Credit Card,Online shopping order
+2023-12-31,Salary,Income,39700.0,Debit Card,Salary payment
+2024-01-01,Food,Expense,1306.99,Cash,Online food order
+2024-01-03,Shopping,Expense,4716.17,Credit Card,Electronics purchase
+2024-01-03,Bills,Expense,3831.45,Credit Card,Water bill
+2024-01-03,Rent,Expense,13748.12,Debit Card,Monthly house rent
+2024-01-04,Bills,Expense,1337.4,Cash,Water bill
+2024-01-05,Food,Expense,105.34,Cash,Online food order
+2024-01-05,Education,Expense,4186.88,Credit Card,Course fee
+2024-01-06,Healthcare,Expense,887.41,Cash,Doctor consultation
+2024-01-06,Bills,Expense,2520.73,Cash,Electricity bill
+2024-01-07,Travel,Expense,2855.47,Cash,Flight booking
+2024-01-08,Salary,Income,46500.0,UPI,Monthly salary credited
+2024-01-09,Salary,Income,62000.0,Cash,Salary payment
+2024-01-09,Healthcare,Expense,7692.36,Debit Card,Health checkup
+2024-01-09,Salary,Income,55300.0,UPI,Salary payment
+2024-01-10,Entertainment,Expense,256.32,Cash,Concert tickets
+2024-01-12,Bills,Expense,3735.09,Bank Transfer,Mobile recharge
+2024-01-12,Food,Expense,711.73,Credit Card,Snacks and beverages
+2024-01-13,Bills,Expense,1087.26,Bank Transfer,Electricity bill
+2024-01-13,Salary,Income,60000.0,Cash,Company payroll
+2024-01-14,Freelancing,Income,6212.34,UPI,Gig work income
+2024-01-15,Shopping,Expense,693.05,Debit Card,Clothing purchase
+2024-01-15,Shopping,Expense,4121.77,Bank Transfer,Online shopping order
+2024-01-16,Shopping,Expense,3460.88,Cash,Electronics purchase
+2024-01-17,Shopping,Expense,2913.21,Cash,Electronics purchase
+2024-01-17,Shopping,Expense,4927.08,Bank Transfer,Clothing purchase
+2024-01-18,Investment,Income,10554.83,Bank Transfer,Mutual fund returns
+2024-01-19,Other,Expense,751.16,Debit Card,Miscellaneous expense
+2024-01-21,Entertainment,Expense,2145.16,Debit Card,Movie tickets
+2024-01-22,Travel,Expense,395.04,Debit Card,Fuel expense
+2024-01-22,Shopping,Expense,3450.4,Cash,Electronics purchase
+2024-01-23,Other,Expense,328.52,Debit Card,Donation
+2024-01-23,Rent,Expense,11652.97,Cash,Rent payment to landlord
+2024-01-24,Bills,Expense,2870.61,UPI,Mobile recharge
+2024-01-25,Entertainment,Expense,497.27,UPI,Movie tickets
+2024-01-25,Healthcare,Expense,6471.8,Debit Card,Medicine purchase
+2024-01-25,Investment,Income,1902.39,Debit Card,Stock sale profit
+2024-01-25,Entertainment,Expense,1245.69,Debit Card,Streaming subscription
+2024-01-25,Rent,Expense,8439.06,UPI,Rent payment to landlord
+2024-01-25,Entertainment,Expense,1208.71,Credit Card,Streaming subscription
+2024-01-26,Freelancing,Income,12725.99,Credit Card,Gig work income
+2024-01-26,Food,Expense,617.16,Credit Card,Groceries
+2024-01-27,Food,Expense,987.13,UPI,Restaurant bill
+2024-01-27,Other,Expense,1400.76,Credit Card,Gift purchase
+2024-01-28,Investment,Income,7798.38,Debit Card,Dividend received
+2024-01-29,Food,Expense,1449.36,Bank Transfer,Snacks and beverages
+2024-01-29,Food,Expense,1294.67,Cash,Restaurant bill
+2024-01-29,Travel,Expense,3688.99,Bank Transfer,Bus ticket
+2024-01-30,Entertainment,Expense,179.0,Credit Card,Streaming subscription
+2024-01-31,Food,Expense,169.51,Bank Transfer,Restaurant bill
+2024-01-31,Education,Expense,3720.85,UPI,Book purchase
+2024-02-01,Travel,Expense,4128.35,Credit Card,Flight booking
+2024-02-03,Healthcare,Expense,7257.74,Bank Transfer,Health checkup
+2024-02-03,Food,Expense,1042.62,Bank Transfer,Groceries
+2024-02-04,Salary,Income,43000.0,Credit Card,Salary payment
+2024-02-04,Food,Expense,1294.83,Credit Card,Restaurant bill
+2024-02-05,Other,Expense,2567.2,Bank Transfer,Miscellaneous expense
+2024-02-05,Shopping,Expense,2939.46,Bank Transfer,Electronics purchase
+2024-02-06,Food,Expense,199.94,Credit Card,Restaurant bill
+2024-02-08,Shopping,Expense,1143.67,Debit Card,Clothing purchase
+2024-02-08,Travel,Expense,2778.33,Cash,Fuel expense
+2024-02-09,Salary,Income,64500.0,Cash,Monthly salary credited
+2024-02-09,Healthcare,Expense,4069.79,Credit Card,Health checkup
+2024-02-09,Freelancing,Income,2250.54,Bank Transfer,Freelance project payment
+2024-02-09,Travel,Expense,1501.99,Credit Card,Fuel expense
+2024-02-09,Education,Expense,8274.59,UPI,Book purchase
+2024-02-10,Shopping,Expense,3161.44,UPI,Online shopping order
+2024-02-10,Other,Expense,1799.45,Debit Card,Gift purchase
+2024-02-10,Travel,Expense,4922.39,Cash,Flight booking
+2024-02-11,Freelancing,Income,11431.69,Cash,Freelance project payment
+2024-02-11,Entertainment,Expense,2423.08,Bank Transfer,Streaming subscription
+2024-02-11,Other,Expense,2289.42,Credit Card,Donation
+2024-02-12,Entertainment,Expense,661.9,Credit Card,Movie tickets
+2024-02-12,Other,Expense,1569.17,Bank Transfer,Gift purchase
+2024-02-13,Entertainment,Expense,2488.6,Debit Card,Streaming subscription
+2024-02-14,Investment,Income,14453.49,Debit Card,Mutual fund returns
+2024-02-14,Bills,Expense,2878.31,Bank Transfer,Mobile recharge
+2024-02-15,Food,Expense,1363.42,UPI,Snacks and beverages
+2024-02-15,Shopping,Expense,3286.59,Credit Card,Online shopping order
+2024-02-16,Shopping,Expense,769.84,Bank Transfer,Electronics purchase
+2024-02-17,Food,Expense,301.39,Bank Transfer,Snacks and beverages
+2024-02-18,Entertainment,Expense,468.78,Bank Transfer,Concert tickets
+2024-02-19,Education,Expense,4188.61,Cash,Tuition fee
+2024-02-19,Food,Expense,1068.5,Debit Card,Online food order
+2024-02-20,Rent,Expense,12589.98,UPI,Monthly house rent
+2024-02-21,Shopping,Expense,4523.39,Bank Transfer,Online shopping order
+2024-02-22,Education,Expense,4186.31,Credit Card,Book purchase
+2024-02-23,Food,Expense,263.35,Cash,Groceries
+2024-02-23,Bills,Expense,1022.26,Credit Card,Water bill
+2024-02-23,Food,Expense,730.71,Bank Transfer,Snacks and beverages
+2024-02-23,Shopping,Expense,2199.86,Cash,Clothing purchase
+2024-02-23,Food,Expense,1170.35,Cash,Online food order
+2024-02-24,Entertainment,Expense,2196.69,UPI,Movie tickets
+2024-02-24,Food,Expense,133.47,Bank Transfer,Online food order
+2024-02-25,Rent,Expense,8436.47,Credit Card,Rent payment to landlord
+2024-02-26,Food,Expense,892.3,UPI,Restaurant bill
+2024-02-26,Other,Expense,2764.43,Debit Card,Donation
+2024-02-27,Healthcare,Expense,7652.48,Bank Transfer,Health checkup
+2024-02-28,Investment,Income,6641.34,Debit Card,Dividend received
+2024-02-28,Rent,Expense,8457.15,UPI,Monthly house rent
+2024-02-28,Travel,Expense,1642.4,Cash,Bus ticket
+2024-02-28,Healthcare,Expense,7771.5,Bank Transfer,Doctor consultation
+2024-02-28,Shopping,Expense,5588.4,Cash,Electronics purchase
+2024-02-29,Food,Expense,575.83,Bank Transfer,Online food order
+2024-03-01,Travel,Expense,4145.73,Cash,Fuel expense
+2024-03-02,Shopping,Expense,3476.53,UPI,Online shopping order
+2024-03-02,Investment,Income,9291.61,Bank Transfer,Dividend received
+2024-03-02,Food,Expense,1382.2,Debit Card,Online food order
+2024-03-02,Bills,Expense,2055.1,Cash,Mobile recharge
+2024-03-02,Food,Expense,946.97,Cash,Restaurant bill
+2024-03-04,Education,Expense,9805.26,UPI,Book purchase
+2024-03-05,Bills,Expense,2800.81,Bank Transfer,Mobile recharge
+2024-03-05,Shopping,Expense,5823.88,Credit Card,Online shopping order
+2024-03-06,Food,Expense,536.21,Credit Card,Online food order
+2024-03-07,Entertainment,Expense,742.84,Cash,Streaming subscription
+2024-03-08,Education,Expense,8178.9,Bank Transfer,Course fee
+2024-03-09,Bills,Expense,2279.71,Cash,Mobile recharge
+2024-03-09,Bills,Expense,3261.77,Cash,Internet bill
+2024-03-10,Bills,Expense,2916.1,Credit Card,Mobile recharge
+2024-03-10,Food,Expense,394.75,Debit Card,Online food order
+2024-03-10,Healthcare,Expense,815.63,Bank Transfer,Doctor consultation
+2024-03-10,Shopping,Expense,3068.27,Credit Card,Online shopping order
+2024-03-13,Bills,Expense,2445.48,Cash,Mobile recharge
+2024-03-14,Entertainment,Expense,2259.88,Credit Card,Streaming subscription
+2024-03-14,Healthcare,Expense,1515.39,Debit Card,Doctor consultation
+2024-03-15,Food,Expense,480.77,Cash,Online food order
+2024-03-15,Healthcare,Expense,2581.97,Bank Transfer,Doctor consultation
+2024-03-15,Shopping,Expense,2516.36,UPI,Clothing purchase
+2024-03-16,Food,Expense,1217.15,Bank Transfer,Restaurant bill
+2024-03-16,Other,Expense,407.24,Cash,Gift purchase
+2024-03-16,Education,Expense,4789.77,UPI,Book purchase
+2024-03-17,Investment,Income,5637.31,Credit Card,Mutual fund returns
+2024-03-18,Bills,Expense,1884.54,Bank Transfer,Water bill
+2024-03-20,Education,Expense,4456.96,Cash,Course fee
+2024-03-20,Shopping,Expense,4710.8,UPI,Clothing purchase
+2024-03-20,Entertainment,Expense,2449.09,Cash,Streaming subscription
+2024-03-24,Entertainment,Expense,1046.32,Cash,Streaming subscription
+2024-03-24,Other,Expense,2654.46,Credit Card,Miscellaneous expense
+2024-03-25,Freelancing,Income,17608.32,Credit Card,Gig work income
+2024-03-26,Education,Expense,2073.26,Cash,Tuition fee
+2024-03-26,Education,Expense,1447.26,Credit Card,Course fee
+2024-03-27,Entertainment,Expense,1433.93,Credit Card,Movie tickets
+2024-03-29,Food,Expense,1452.48,Bank Transfer,Snacks and beverages
+2024-03-29,Travel,Expense,4327.82,Cash,Cab fare
+2024-03-29,Food,Expense,957.71,Bank Transfer,Snacks and beverages
+2024-03-30,Education,Expense,8188.34,Cash,Book purchase
+2024-04-01,Entertainment,Expense,828.63,UPI,Movie tickets
+2024-04-01,Education,Expense,8182.57,Credit Card,Course fee
+2024-04-02,Entertainment,Expense,2240.64,Credit Card,Concert tickets
+2024-04-04,Travel,Expense,1323.21,UPI,Fuel expense
+2024-04-05,Healthcare,Expense,2221.69,UPI,Health checkup
+2024-04-06,Entertainment,Expense,1224.86,Bank Transfer,Concert tickets
+2024-04-06,Food,Expense,441.41,Credit Card,Snacks and beverages
+2024-04-07,Travel,Expense,2618.43,Bank Transfer,Cab fare
+2024-04-07,Education,Expense,1649.54,UPI,Course fee
+2024-04-07,Travel,Expense,2393.12,Cash,Bus ticket
+2024-04-08,Shopping,Expense,1851.16,Bank Transfer,Online shopping order
+2024-04-08,Other,Expense,1712.27,Bank Transfer,Miscellaneous expense
+2024-04-08,Rent,Expense,12475.0,Credit Card,Monthly house rent
+2024-04-08,Salary,Income,38100.0,Bank Transfer,Monthly salary credited
+2024-04-09,Rent,Expense,11408.96,Debit Card,Rent payment to landlord
+2024-04-09,Rent,Expense,10709.16,Debit Card,Monthly house rent
+2024-04-09,Rent,Expense,14356.84,Debit Card,Monthly house rent
+2024-04-09,Food,Expense,658.22,Cash,Online food order
+2024-04-11,Food,Expense,1197.98,Bank Transfer,Snacks and beverages
+2024-04-11,Food,Expense,622.48,Bank Transfer,Snacks and beverages
+2024-04-12,Food,Expense,170.78,Debit Card,Restaurant bill
+2024-04-12,Bills,Expense,3960.33,Debit Card,Mobile recharge
+2024-04-12,Travel,Expense,3229.03,Bank Transfer,Flight booking
+2024-04-12,Travel,Expense,2906.77,Bank Transfer,Flight booking
+2024-04-13,Freelancing,Income,2665.71,UPI,Freelance project payment
+2024-04-13,Food,Expense,1342.62,Credit Card,Snacks and beverages
+2024-04-14,Freelancing,Income,13427.13,Debit Card,Freelance project payment
+2024-04-14,Food,Expense,1007.6,UPI,Groceries
+2024-04-15,Education,Expense,7219.43,Credit Card,Course fee
+2024-04-16,Food,Expense,1348.88,Bank Transfer,Online food order
+2024-04-17,Investment,Income,1234.25,Bank Transfer,Mutual fund returns
+2024-04-20,Food,Expense,807.18,Cash,Groceries
+2024-04-20,Investment,Income,10179.88,Bank Transfer,Stock sale profit
+2024-04-21,Food,Expense,468.76,Debit Card,Groceries
+2024-04-23,Education,Expense,9762.32,Bank Transfer,Book purchase
+2024-04-24,Shopping,Expense,4225.46,Credit Card,Online shopping order
+2024-04-24,Healthcare,Expense,2328.13,Cash,Medicine purchase
+2024-04-24,Food,Expense,485.45,Bank Transfer,Restaurant bill
+2024-04-25,Other,Expense,2721.53,UPI,Gift purchase
+2024-04-25,Healthcare,Expense,6140.71,Debit Card,Doctor consultation
+2024-04-25,Food,Expense,849.14,Credit Card,Snacks and beverages
+2024-04-26,Education,Expense,2613.12,Credit Card,Book purchase
+2024-04-26,Salary,Income,36300.0,Credit Card,Salary payment
+2024-04-27,Food,Expense,279.12,Debit Card,Restaurant bill
+2024-04-27,Shopping,Expense,5243.62,UPI,Clothing purchase
+2024-04-27,Food,Expense,1441.94,Debit Card,Online food order
+2024-04-28,Other,Expense,192.03,Credit Card,Miscellaneous expense
+2024-04-28,Freelancing,Income,11529.78,Bank Transfer,Freelance project payment
+2024-04-28,Salary,Income,55900.0,UPI,Company payroll
+2024-04-28,Healthcare,Expense,2101.1,Bank Transfer,Doctor consultation
+2024-04-29,Food,Expense,1230.5,UPI,Groceries
+2024-04-29,Entertainment,Expense,716.28,UPI,Streaming subscription
+2024-04-30,Shopping,Expense,4844.35,UPI,Online shopping order
+2024-05-01,Investment,Income,14229.31,UPI,Mutual fund returns
+2024-05-01,Entertainment,Expense,1767.76,UPI,Streaming subscription
+2024-05-02,Healthcare,Expense,6743.98,Cash,Medicine purchase
+2024-05-02,Shopping,Expense,3021.46,UPI,Online shopping order
+2024-05-02,Entertainment,Expense,1203.45,Debit Card,Concert tickets
+2024-05-04,Food,Expense,259.72,Cash,Snacks and beverages
+2024-05-04,Bills,Expense,3299.65,UPI,Electricity bill
+2024-05-04,Salary,Income,35000.0,Bank Transfer,Monthly salary credited
+2024-05-04,Other,Expense,544.24,Bank Transfer,Gift purchase
+2024-05-05,Food,Expense,716.66,UPI,Groceries
+2024-05-05,Food,Expense,399.58,Bank Transfer,Online food order
+2024-05-05,Other,Expense,1788.51,Bank Transfer,Donation
+2024-05-05,Food,Expense,835.97,Credit Card,Groceries
+2024-05-07,Bills,Expense,1657.11,Cash,Electricity bill
+2024-05-08,Entertainment,Expense,1736.79,Credit Card,Movie tickets
+2024-05-08,Shopping,Expense,5356.88,Cash,Electronics purchase
+2024-05-08,Other,Expense,2389.71,Credit Card,Gift purchase
+2024-05-09,Entertainment,Expense,569.99,Bank Transfer,Concert tickets
+2024-05-09,Shopping,Expense,5458.25,UPI,Clothing purchase
+2024-05-10,Food,Expense,1125.42,Bank Transfer,Online food order
+2024-05-11,Education,Expense,7212.95,Bank Transfer,Book purchase
+2024-05-12,Shopping,Expense,3560.53,Credit Card,Clothing purchase
+2024-05-13,Entertainment,Expense,855.08,Bank Transfer,Concert tickets
+2024-05-14,Shopping,Expense,2165.55,Cash,Electronics purchase
+2024-05-15,Entertainment,Expense,2421.29,Credit Card,Streaming subscription
+2024-05-15,Food,Expense,931.66,UPI,Snacks and beverages
+2024-05-15,Entertainment,Expense,1454.66,UPI,Concert tickets
+2024-05-16,Other,Expense,2609.26,Credit Card,Donation
+2024-05-16,Healthcare,Expense,1023.2,Debit Card,Health checkup
+2024-05-16,Travel,Expense,1110.92,UPI,Fuel expense
+2024-05-16,Entertainment,Expense,1995.25,Cash,Movie tickets
+2024-05-17,Bills,Expense,1200.62,UPI,Electricity bill
+2024-05-17,Bills,Expense,2993.4,Credit Card,Electricity bill
+2024-05-17,Education,Expense,1474.58,Cash,Tuition fee
+2024-05-18,Shopping,Expense,2669.09,Credit Card,Online shopping order
+2024-05-18,Healthcare,Expense,3896.01,UPI,Doctor consultation
+2024-05-19,Food,Expense,304.31,UPI,Snacks and beverages
+2024-05-19,Food,Expense,262.57,UPI,Restaurant bill
+2024-05-19,Bills,Expense,3643.42,Bank Transfer,Mobile recharge
+2024-05-19,Bills,Expense,3327.93,Bank Transfer,Water bill
+2024-05-20,Rent,Expense,17977.87,UPI,Monthly house rent
+2024-05-20,Shopping,Expense,2795.23,Bank Transfer,Clothing purchase
+2024-05-21,Salary,Income,52900.0,Credit Card,Salary payment
+2024-05-21,Food,Expense,1291.33,UPI,Snacks and beverages
+2024-05-22,Travel,Expense,2838.69,Cash,Cab fare
+2024-05-23,Salary,Income,63600.0,Bank Transfer,Company payroll
+2024-05-25,Bills,Expense,1941.97,Bank Transfer,Internet bill
+2024-05-25,Shopping,Expense,2848.29,Cash,Online shopping order
+2024-05-25,Investment,Income,562.9,Cash,Stock sale profit
+2024-05-25,Shopping,Expense,3397.96,Cash,Electronics purchase
+2024-05-26,Entertainment,Expense,1366.7,Bank Transfer,Movie tickets
+2024-05-26,Investment,Income,9152.72,Cash,Stock sale profit
+2024-05-29,Shopping,Expense,5561.7,Debit Card,Electronics purchase
+2024-05-29,Entertainment,Expense,1389.53,UPI,Movie tickets
+2024-06-03,Education,Expense,3438.2,Credit Card,Book purchase
+2024-06-03,Freelancing,Income,3335.43,Credit Card,Client payment received
+2024-06-05,Food,Expense,661.94,Cash,Groceries
+2024-06-05,Food,Expense,103.6,Cash,Restaurant bill
+2024-06-05,Travel,Expense,1105.5,Credit Card,Fuel expense
+2024-06-06,Shopping,Expense,816.16,Debit Card,Electronics purchase
+2024-06-07,Other,Expense,317.64,Cash,Gift purchase
+2024-06-07,Bills,Expense,1425.82,Debit Card,Internet bill
+2024-06-07,Shopping,Expense,1897.52,UPI,Electronics purchase
+2024-06-08,Food,Expense,259.34,Credit Card,Groceries
+2024-06-09,Other,Expense,2874.46,Bank Transfer,Donation
+2024-06-09,Shopping,Expense,1139.89,Credit Card,Clothing purchase
+2024-06-09,Food,Expense,1335.94,Credit Card,Groceries
+2024-06-09,Bills,Expense,570.18,Cash,Internet bill
+2024-06-10,Travel,Expense,4930.34,Cash,Bus ticket
+2024-06-10,Food,Expense,296.52,UPI,Restaurant bill
+2024-06-11,Healthcare,Expense,6373.63,Cash,Medicine purchase
+2024-06-11,Freelancing,Income,13949.37,Bank Transfer,Client payment received
+2024-06-13,Food,Expense,1250.95,Debit Card,Snacks and beverages
+2024-06-13,Travel,Expense,4750.7,Cash,Bus ticket
+2024-06-13,Other,Expense,2878.89,Bank Transfer,Donation
+2024-06-15,Food,Expense,881.19,Bank Transfer,Restaurant bill
+2024-06-15,Food,Expense,1352.9,Cash,Online food order
+2024-06-16,Shopping,Expense,5575.78,Bank Transfer,Electronics purchase
+2024-06-17,Entertainment,Expense,2418.99,Credit Card,Movie tickets
+2024-06-17,Food,Expense,1254.04,Credit Card,Groceries
+2024-06-17,Travel,Expense,1575.05,Bank Transfer,Cab fare
+2024-06-17,Food,Expense,778.44,UPI,Online food order
+2024-06-18,Shopping,Expense,960.27,Debit Card,Clothing purchase
+2024-06-19,Entertainment,Expense,2436.83,Debit Card,Concert tickets
+2024-06-19,Food,Expense,1150.5,Bank Transfer,Snacks and beverages
+2024-06-20,Travel,Expense,1381.98,Cash,Fuel expense
+2024-06-20,Other,Expense,531.8,UPI,Donation
+2024-06-22,Bills,Expense,1372.02,Bank Transfer,Electricity bill
+2024-06-22,Investment,Income,12089.41,Credit Card,Stock sale profit
+2024-06-24,Travel,Expense,3578.08,Cash,Cab fare
+2024-06-26,Salary,Income,56700.0,Bank Transfer,Salary payment
+2024-06-26,Salary,Income,44100.0,Credit Card,Salary payment
+2024-06-27,Other,Expense,955.2,Bank Transfer,Donation
+2024-06-27,Education,Expense,2310.48,Cash,Tuition fee
+2024-06-27,Other,Expense,2763.63,Bank Transfer,Gift purchase
+2024-06-27,Other,Expense,556.55,Bank Transfer,Miscellaneous expense
+2024-06-27,Shopping,Expense,2259.42,Bank Transfer,Online shopping order
+2024-06-28,Food,Expense,1232.33,Credit Card,Restaurant bill
+2024-06-29,Investment,Income,10703.23,Bank Transfer,Stock sale profit
+2024-07-02,Entertainment,Expense,2218.32,Credit Card,Streaming subscription
+2024-07-02,Food,Expense,692.99,Debit Card,Online food order
+2024-07-03,Bills,Expense,2578.37,Cash,Electricity bill
+2024-07-03,Shopping,Expense,2599.48,Debit Card,Clothing purchase
+2024-07-03,Bills,Expense,3128.07,Debit Card,Electricity bill
+2024-07-03,Food,Expense,728.06,Credit Card,Restaurant bill
+2024-07-03,Healthcare,Expense,1658.29,Debit Card,Doctor consultation
+2024-07-04,Shopping,Expense,4252.57,UPI,Electronics purchase
+2024-07-06,Travel,Expense,2466.1,UPI,Fuel expense
+2024-07-06,Shopping,Expense,5060.18,Bank Transfer,Clothing purchase
+2024-07-06,Salary,Income,36600.0,Debit Card,Monthly salary credited
+2024-07-07,Bills,Expense,1428.43,Debit Card,Mobile recharge
+2024-07-07,Food,Expense,212.81,UPI,Restaurant bill
+2024-07-08,Salary,Income,63700.0,Credit Card,Salary payment
+2024-07-09,Food,Expense,284.48,UPI,Restaurant bill
+2024-07-09,Food,Expense,1486.45,Cash,Groceries
+2024-07-09,Shopping,Expense,2955.77,Cash,Clothing purchase
+2024-07-10,Food,Expense,1252.6,Debit Card,Groceries
+2024-07-10,Travel,Expense,2161.5,UPI,Cab fare
+2024-07-10,Shopping,Expense,2998.38,Cash,Electronics purchase
+2024-07-11,Shopping,Expense,2717.53,Credit Card,Clothing purchase
+2024-07-11,Other,Expense,1571.25,Bank Transfer,Donation
+2024-07-12,Food,Expense,399.5,Bank Transfer,Online food order
+2024-07-12,Education,Expense,3251.88,Debit Card,Book purchase
+2024-07-14,Healthcare,Expense,6913.52,Bank Transfer,Health checkup
+2024-07-14,Entertainment,Expense,2363.31,Cash,Streaming subscription
+2024-07-14,Freelancing,Income,18251.99,UPI,Gig work income
+2024-07-15,Entertainment,Expense,1028.06,Credit Card,Concert tickets
+2024-07-15,Healthcare,Expense,3678.13,UPI,Health checkup
+2024-07-16,Shopping,Expense,716.92,Cash,Online shopping order
+2024-07-16,Shopping,Expense,5502.94,Bank Transfer,Electronics purchase
+2024-07-17,Shopping,Expense,1894.41,Bank Transfer,Electronics purchase
+2024-07-17,Healthcare,Expense,963.69,Bank Transfer,Doctor consultation
+2024-07-17,Entertainment,Expense,1592.96,Cash,Movie tickets
+2024-07-17,Bills,Expense,594.21,Credit Card,Water bill
+2024-07-17,Entertainment,Expense,302.58,Credit Card,Movie tickets
+2024-07-17,Food,Expense,553.49,Cash,Groceries
+2024-07-17,Entertainment,Expense,991.5,Debit Card,Concert tickets
+2024-07-18,Food,Expense,119.14,Credit Card,Groceries
+2024-07-18,Food,Expense,484.23,Debit Card,Groceries
+2024-07-18,Shopping,Expense,1039.7,Cash,Clothing purchase
+2024-07-20,Food,Expense,1305.09,Cash,Groceries
+2024-07-20,Salary,Income,63000.0,Bank Transfer,Company payroll
+2024-07-20,Other,Expense,947.2,UPI,Donation
+2024-07-20,Food,Expense,739.44,Debit Card,Restaurant bill
+2024-07-21,Freelancing,Income,5728.83,UPI,Freelance project payment
+2024-07-21,Shopping,Expense,5739.12,Cash,Online shopping order
+2024-07-21,Bills,Expense,1547.83,Cash,Water bill
+2024-07-22,Travel,Expense,878.59,Cash,Cab fare
+2024-07-23,Food,Expense,614.59,Debit Card,Restaurant bill
+2024-07-23,Shopping,Expense,4072.67,Credit Card,Clothing purchase
+2024-07-24,Bills,Expense,591.89,Debit Card,Electricity bill
+2024-07-24,Food,Expense,846.15,Cash,Restaurant bill
+2024-07-24,Shopping,Expense,3462.02,Credit Card,Clothing purchase
+2024-07-25,Healthcare,Expense,7158.08,Bank Transfer,Doctor consultation
+2024-07-26,Shopping,Expense,712.6,Debit Card,Online shopping order
+2024-07-26,Entertainment,Expense,2277.24,UPI,Concert tickets
+2024-07-28,Healthcare,Expense,7801.46,Bank Transfer,Health checkup
+2024-07-28,Entertainment,Expense,1063.88,Bank Transfer,Concert tickets
+2024-07-29,Travel,Expense,2896.08,Cash,Flight booking
+2024-07-29,Education,Expense,2465.09,Credit Card,Book purchase
+2024-07-30,Shopping,Expense,2008.81,Cash,Online shopping order
+2024-07-30,Food,Expense,1428.78,Cash,Restaurant bill
+2024-07-30,Travel,Expense,4921.32,Credit Card,Fuel expense
+2024-07-31,Investment,Income,3397.1,Bank Transfer,Dividend received
+2024-07-31,Healthcare,Expense,521.32,Cash,Doctor consultation
+2024-08-01,Travel,Expense,1275.13,Debit Card,Cab fare
+2024-08-01,Food,Expense,143.2,UPI,Online food order
+2024-08-01,Bills,Expense,2750.47,Bank Transfer,Mobile recharge
+2024-08-02,Entertainment,Expense,2446.72,Cash,Concert tickets
+2024-08-02,Travel,Expense,4291.63,Debit Card,Cab fare
+2024-08-02,Travel,Expense,3365.18,UPI,Flight booking
+2024-08-02,Entertainment,Expense,1989.19,Debit Card,Concert tickets
+2024-08-02,Food,Expense,803.35,Credit Card,Online food order
+2024-08-03,Freelancing,Income,19045.09,Cash,Gig work income
+2024-08-04,Salary,Income,53100.0,Debit Card,Salary payment
+2024-08-04,Entertainment,Expense,1551.13,Cash,Movie tickets
+2024-08-05,Travel,Expense,4605.83,Cash,Fuel expense
+2024-08-06,Investment,Income,4070.12,Bank Transfer,Dividend received
+2024-08-06,Healthcare,Expense,2936.36,Debit Card,Health checkup
+2024-08-07,Bills,Expense,3945.54,Credit Card,Mobile recharge
+2024-08-07,Travel,Expense,4644.43,UPI,Cab fare
+2024-08-08,Food,Expense,683.22,Cash,Snacks and beverages
+2024-08-08,Entertainment,Expense,2067.63,Debit Card,Concert tickets
+2024-08-08,Education,Expense,6692.46,Debit Card,Tuition fee
+2024-08-08,Healthcare,Expense,3107.9,Bank Transfer,Health checkup
+2024-08-09,Shopping,Expense,1170.67,Debit Card,Electronics purchase
+2024-08-09,Travel,Expense,904.95,UPI,Fuel expense
+2024-08-10,Salary,Income,52800.0,UPI,Company payroll
+2024-08-11,Other,Expense,113.49,UPI,Gift purchase
+2024-08-12,Healthcare,Expense,2687.45,Bank Transfer,Health checkup
+2024-08-12,Salary,Income,46400.0,Cash,Salary payment
+2024-08-13,Shopping,Expense,3887.84,Cash,Clothing purchase
+2024-08-13,Entertainment,Expense,1624.7,Credit Card,Streaming subscription
+2024-08-13,Shopping,Expense,1383.45,Cash,Electronics purchase
+2024-08-14,Entertainment,Expense,1679.78,UPI,Movie tickets
+2024-08-15,Other,Expense,1144.55,Cash,Miscellaneous expense
+2024-08-17,Investment,Income,7564.26,Debit Card,Mutual fund returns
+2024-08-19,Food,Expense,1029.06,Debit Card,Online food order
+2024-08-19,Travel,Expense,2939.06,Credit Card,Fuel expense
+2024-08-19,Healthcare,Expense,4509.7,Credit Card,Doctor consultation
+2024-08-20,Shopping,Expense,1115.77,Credit Card,Electronics purchase
+2024-08-20,Entertainment,Expense,1279.05,Bank Transfer,Concert tickets
+2024-08-21,Entertainment,Expense,406.09,Cash,Movie tickets
+2024-08-21,Investment,Income,12767.21,Cash,Mutual fund returns
+2024-08-22,Food,Expense,1024.94,Cash,Online food order
+2024-08-22,Food,Expense,710.24,Credit Card,Groceries
+2024-08-22,Food,Expense,1412.98,Bank Transfer,Restaurant bill
+2024-08-22,Other,Expense,1500.5,Bank Transfer,Miscellaneous expense
+2024-08-23,Shopping,Expense,5213.53,Credit Card,Clothing purchase
+2024-08-23,Salary,Income,56100.0,UPI,Monthly salary credited
+2024-08-23,Shopping,Expense,1441.77,Cash,Electronics purchase
+2024-08-24,Food,Expense,1114.03,Bank Transfer,Restaurant bill
+2024-08-25,Food,Expense,875.49,Bank Transfer,Restaurant bill
+2024-08-25,Healthcare,Expense,5575.24,Bank Transfer,Health checkup
+2024-08-26,Shopping,Expense,4479.39,Debit Card,Clothing purchase
+2024-08-26,Food,Expense,489.47,Cash,Restaurant bill
+2024-08-26,Food,Expense,1240.24,Credit Card,Online food order
+2024-08-27,Travel,Expense,1221.25,Cash,Fuel expense
+2024-08-27,Shopping,Expense,3051.25,Bank Transfer,Electronics purchase
+2024-08-27,Bills,Expense,1395.78,Debit Card,Water bill
+2024-08-29,Shopping,Expense,1829.85,UPI,Clothing purchase
+2024-08-30,Healthcare,Expense,2823.71,Bank Transfer,Health checkup
+2024-08-30,Freelancing,Income,6071.44,Credit Card,Freelance project payment
+2024-08-31,Shopping,Expense,704.77,Cash,Online shopping order
+2024-08-31,Food,Expense,1017.57,Debit Card,Restaurant bill
+2024-08-31,Bills,Expense,3551.56,Debit Card,Internet bill
+2024-09-01,Other,Expense,1768.24,Cash,Miscellaneous expense
+2024-09-02,Entertainment,Expense,1381.68,Credit Card,Concert tickets
+2024-09-05,Food,Expense,814.77,UPI,Restaurant bill
+2024-09-05,Shopping,Expense,3196.97,UPI,Clothing purchase
+2024-09-06,Shopping,Expense,3755.12,Debit Card,Electronics purchase
+2024-09-06,Other,Expense,1006.1,Cash,Donation
+2024-09-06,Education,Expense,4338.94,Debit Card,Tuition fee
+2024-09-06,Education,Expense,870.85,Bank Transfer,Tuition fee
+2024-09-06,Shopping,Expense,2781.65,Cash,Online shopping order
+2024-09-07,Healthcare,Expense,1313.15,Bank Transfer,Doctor consultation
+2024-09-08,Investment,Income,10650.21,Bank Transfer,Mutual fund returns
+2024-09-08,Entertainment,Expense,2332.33,Credit Card,Movie tickets
+2024-09-09,Food,Expense,1104.73,UPI,Snacks and beverages
+2024-09-09,Travel,Expense,1143.05,UPI,Fuel expense
+2024-09-11,Shopping,Expense,2971.95,Debit Card,Clothing purchase
+2024-09-12,Shopping,Expense,5390.85,UPI,Online shopping order
+2024-09-12,Travel,Expense,2921.81,UPI,Bus ticket
+2024-09-13,Entertainment,Expense,1688.56,Credit Card,Streaming subscription
+2024-09-13,Travel,Expense,2231.06,UPI,Bus ticket
+2024-09-13,Food,Expense,301.14,Debit Card,Online food order
+2024-09-14,Entertainment,Expense,1878.03,Credit Card,Concert tickets
+2024-09-15,Bills,Expense,1489.37,Cash,Internet bill
+2024-09-16,Food,Expense,1319.18,Bank Transfer,Restaurant bill
+2024-09-16,Travel,Expense,961.98,Debit Card,Fuel expense
+2024-09-17,Shopping,Expense,2464.58,Debit Card,Electronics purchase
+2024-09-18,Investment,Income,9328.07,Debit Card,Stock sale profit
+2024-09-18,Food,Expense,1414.79,Bank Transfer,Groceries
+2024-09-18,Shopping,Expense,5546.97,Cash,Electronics purchase
+2024-09-19,Shopping,Expense,3558.33,Cash,Clothing purchase
+2024-09-19,Food,Expense,1306.58,UPI,Online food order
+2024-09-20,Travel,Expense,4487.49,Cash,Flight booking
+2024-09-21,Other,Expense,1731.64,Bank Transfer,Donation
+2024-09-22,Shopping,Expense,1093.64,UPI,Clothing purchase
+2024-09-22,Shopping,Expense,329.93,Cash,Clothing purchase
+2024-09-23,Other,Expense,2482.59,Credit Card,Donation
+2024-09-24,Food,Expense,169.67,Cash,Online food order
+2024-09-24,Bills,Expense,958.67,Credit Card,Water bill
+2024-09-25,Bills,Expense,721.33,Bank Transfer,Electricity bill
+2024-09-25,Food,Expense,842.7,Bank Transfer,Groceries
+2024-09-26,Shopping,Expense,5340.14,Bank Transfer,Online shopping order
+2024-09-26,Travel,Expense,3079.77,Debit Card,Flight booking
+2024-09-27,Bills,Expense,1016.07,Credit Card,Water bill
+2024-09-27,Bills,Expense,1377.19,UPI,Electricity bill
+2024-09-29,Other,Expense,1648.96,Credit Card,Donation
+2024-10-01,Food,Expense,1108.89,Bank Transfer,Online food order
+2024-10-02,Bills,Expense,710.18,Debit Card,Water bill
+2024-10-02,Healthcare,Expense,4881.68,UPI,Doctor consultation
+2024-10-02,Healthcare,Expense,2209.9,Credit Card,Doctor consultation
+2024-10-02,Salary,Income,53500.0,Debit Card,Salary payment
+2024-10-03,Other,Expense,2184.28,Credit Card,Donation
+2024-10-03,Salary,Income,58500.0,Credit Card,Monthly salary credited
+2024-10-04,Bills,Expense,1949.79,Credit Card,Electricity bill
+2024-10-04,Education,Expense,3503.32,Credit Card,Course fee
+2024-10-04,Other,Expense,528.85,Bank Transfer,Gift purchase
+2024-10-05,Food,Expense,791.76,Bank Transfer,Snacks and beverages
+2024-10-06,Shopping,Expense,3581.32,Credit Card,Online shopping order
+2024-10-07,Salary,Income,53300.0,UPI,Company payroll
+2024-10-07,Travel,Expense,4820.44,UPI,Fuel expense
+2024-10-07,Shopping,Expense,1619.17,UPI,Clothing purchase
+2024-10-08,Shopping,Expense,2026.08,Debit Card,Electronics purchase
+2024-10-08,Food,Expense,1439.23,UPI,Online food order
+2024-10-10,Travel,Expense,2261.17,Credit Card,Flight booking
+2024-10-10,Food,Expense,919.51,Debit Card,Snacks and beverages
+2024-10-10,Shopping,Expense,2754.35,Debit Card,Electronics purchase
+2024-10-10,Salary,Income,60100.0,Bank Transfer,Monthly salary credited
+2024-10-10,Food,Expense,1460.53,Cash,Restaurant bill
+2024-10-11,Freelancing,Income,12504.34,Bank Transfer,Freelance project payment
+2024-10-11,Rent,Expense,9542.77,Credit Card,Rent payment to landlord
+2024-10-13,Shopping,Expense,330.16,Cash,Clothing purchase
+2024-10-14,Travel,Expense,1747.43,Cash,Fuel expense
+2024-10-15,Rent,Expense,17402.92,Cash,Monthly house rent
+2024-10-15,Food,Expense,518.34,Debit Card,Groceries
+2024-10-15,Entertainment,Expense,1504.92,Credit Card,Concert tickets
+2024-10-16,Travel,Expense,2762.16,Debit Card,Flight booking
+2024-10-16,Travel,Expense,4505.81,Credit Card,Fuel expense
+2024-10-16,Food,Expense,1211.46,Credit Card,Groceries
+2024-10-17,Other,Expense,2095.67,UPI,Donation
+2024-10-18,Shopping,Expense,3396.81,Credit Card,Clothing purchase
+2024-10-18,Entertainment,Expense,2449.08,Credit Card,Streaming subscription
+2024-10-18,Salary,Income,58100.0,Debit Card,Company payroll
+2024-10-19,Salary,Income,60100.0,Credit Card,Company payroll
+2024-10-19,Bills,Expense,2738.23,Cash,Electricity bill
+2024-10-22,Rent,Expense,11586.74,Credit Card,Rent payment to landlord
+2024-10-22,Bills,Expense,794.14,Bank Transfer,Mobile recharge
+2024-10-22,Other,Expense,2294.42,Credit Card,Donation
+2024-10-22,Freelancing,Income,8593.91,Credit Card,Gig work income
+2024-10-22,Rent,Expense,16150.37,UPI,Monthly house rent
+2024-10-23,Shopping,Expense,2874.68,Bank Transfer,Clothing purchase
+2024-10-23,Food,Expense,182.83,Cash,Restaurant bill
+2024-10-23,Education,Expense,874.51,Credit Card,Course fee
+2024-10-23,Investment,Income,9296.1,Debit Card,Dividend received
+2024-10-24,Travel,Expense,4200.15,Cash,Bus ticket
+2024-10-24,Education,Expense,2145.41,Cash,Course fee
+2024-10-24,Healthcare,Expense,1955.87,UPI,Medicine purchase
+2024-10-25,Healthcare,Expense,1053.03,UPI,Health checkup
+2024-10-26,Salary,Income,44700.0,Bank Transfer,Company payroll
+2024-10-26,Salary,Income,46600.0,Credit Card,Company payroll
+2024-10-27,Healthcare,Expense,2815.26,UPI,Doctor consultation
+2024-10-27,Shopping,Expense,1888.53,Cash,Clothing purchase
+2024-10-27,Bills,Expense,2883.69,Cash,Mobile recharge
+2024-10-28,Entertainment,Expense,784.69,Bank Transfer,Streaming subscription
+2024-10-28,Food,Expense,1463.92,UPI,Online food order
+2024-10-29,Bills,Expense,640.9,Cash,Water bill
+2024-10-29,Bills,Expense,1545.77,UPI,Water bill
+2024-10-31,Entertainment,Expense,1915.66,Debit Card,Movie tickets
+2024-11-01,Freelancing,Income,7656.28,Bank Transfer,Gig work income
+2024-11-01,Salary,Income,63400.0,Cash,Salary payment
+2024-11-01,Salary,Income,41200.0,Debit Card,Salary payment
+2024-11-02,Investment,Income,3900.73,Debit Card,Stock sale profit
+2024-11-02,Food,Expense,1196.07,Bank Transfer,Restaurant bill
+2024-11-02,Food,Expense,798.92,Credit Card,Restaurant bill
+2024-11-03,Food,Expense,979.56,Bank Transfer,Online food order
+2024-11-03,Food,Expense,1403.06,Bank Transfer,Online food order
+2024-11-03,Food,Expense,1450.17,Bank Transfer,Restaurant bill
+2024-11-04,Entertainment,Expense,1712.03,UPI,Concert tickets
+2024-11-04,Shopping,Expense,1201.61,Bank Transfer,Online shopping order
+2024-11-05,Investment,Income,1466.86,UPI,Dividend received
+2024-11-05,Investment,Income,3715.33,Debit Card,Mutual fund returns
+2024-11-05,Other,Expense,1247.84,Cash,Donation
+2024-11-05,Entertainment,Expense,1375.41,Credit Card,Concert tickets
+2024-11-06,Investment,Income,2226.74,UPI,Mutual fund returns
+2024-11-06,Travel,Expense,4340.83,UPI,Bus ticket
+2024-11-07,Salary,Income,47600.0,Cash,Monthly salary credited
+2024-11-08,Bills,Expense,3374.56,Cash,Water bill
+2024-11-08,Freelancing,Income,17741.97,UPI,Gig work income
+2024-11-09,Bills,Expense,3482.29,Debit Card,Electricity bill
+2024-11-09,Salary,Income,64000.0,Debit Card,Company payroll
+2024-11-10,Travel,Expense,2728.64,Debit Card,Bus ticket
+2024-11-10,Education,Expense,3652.89,Debit Card,Book purchase
+2024-11-10,Shopping,Expense,4816.64,UPI,Online shopping order
+2024-11-11,Freelancing,Income,18268.4,UPI,Freelance project payment
+2024-11-11,Food,Expense,165.77,Credit Card,Snacks and beverages
+2024-11-12,Shopping,Expense,1752.87,UPI,Electronics purchase
+2024-11-12,Rent,Expense,17411.3,Credit Card,Monthly house rent
+2024-11-14,Food,Expense,265.51,Debit Card,Restaurant bill
+2024-11-16,Freelancing,Income,3716.93,UPI,Client payment received
+2024-11-17,Entertainment,Expense,613.03,Credit Card,Movie tickets
+2024-11-18,Other,Expense,1205.35,Bank Transfer,Gift purchase
+2024-11-18,Investment,Income,12095.07,Cash,Stock sale profit
+2024-11-19,Other,Expense,2482.12,Bank Transfer,Miscellaneous expense
+2024-11-19,Shopping,Expense,4569.37,Debit Card,Electronics purchase
+2024-11-20,Food,Expense,946.96,Cash,Groceries
+2024-11-21,Salary,Income,41300.0,Bank Transfer,Monthly salary credited
+2024-11-21,Food,Expense,1270.34,Bank Transfer,Groceries
+2024-11-23,Travel,Expense,3905.55,Debit Card,Flight booking
+2024-11-23,Entertainment,Expense,1072.85,UPI,Concert tickets
+2024-11-24,Rent,Expense,11127.07,Cash,Monthly house rent
+2024-11-25,Food,Expense,930.39,Bank Transfer,Online food order
+2024-11-25,Food,Expense,541.7,Bank Transfer,Groceries
+2024-11-25,Healthcare,Expense,6294.23,Cash,Doctor consultation
+2024-11-26,Rent,Expense,17631.17,UPI,Monthly house rent
+2024-11-26,Travel,Expense,967.94,Cash,Bus ticket
+2024-11-26,Food,Expense,1217.4,UPI,Snacks and beverages
+2024-11-30,Shopping,Expense,724.47,UPI,Electronics purchase
+2024-11-30,Other,Expense,2797.74,UPI,Gift purchase
+2024-11-30,Rent,Expense,9727.7,Credit Card,Monthly house rent
+2024-11-30,Food,Expense,796.57,Bank Transfer,Restaurant bill
+2024-12-01,Salary,Income,61400.0,UPI,Salary payment
+2024-12-02,Food,Expense,668.53,Credit Card,Groceries
+2024-12-02,Shopping,Expense,2082.13,Bank Transfer,Clothing purchase
+2024-12-02,Travel,Expense,2027.51,UPI,Fuel expense
+2024-12-02,Food,Expense,564.41,Debit Card,Groceries
+2024-12-03,Food,Expense,521.89,Cash,Online food order
+2024-12-03,Other,Expense,762.84,Cash,Donation
+2024-12-03,Entertainment,Expense,1406.39,Credit Card,Concert tickets
+2024-12-05,Entertainment,Expense,1628.76,Bank Transfer,Streaming subscription
+2024-12-06,Shopping,Expense,3747.23,Debit Card,Online shopping order
+2024-12-06,Food,Expense,1373.17,Debit Card,Restaurant bill
+2024-12-06,Food,Expense,628.88,UPI,Online food order
+2024-12-07,Bills,Expense,1485.69,Cash,Mobile recharge
+2024-12-08,Entertainment,Expense,213.04,Debit Card,Movie tickets
+2024-12-08,Healthcare,Expense,6317.99,UPI,Health checkup
+2024-12-09,Food,Expense,1008.01,UPI,Groceries
+2024-12-09,Other,Expense,1313.07,Cash,Gift purchase
+2024-12-10,Food,Expense,1179.54,UPI,Snacks and beverages
+2024-12-11,Food,Expense,793.66,Credit Card,Groceries
+2024-12-11,Salary,Income,59100.0,Debit Card,Salary payment
+2024-12-11,Bills,Expense,3570.2,Debit Card,Electricity bill
+2024-12-12,Food,Expense,381.19,Debit Card,Restaurant bill
+2024-12-13,Shopping,Expense,3027.63,UPI,Clothing purchase
+2024-12-13,Other,Expense,887.7,Cash,Donation
+2024-12-14,Travel,Expense,2965.38,Credit Card,Bus ticket
+2024-12-14,Food,Expense,1034.46,Cash,Online food order
+2024-12-15,Food,Expense,409.12,Cash,Snacks and beverages
+2024-12-15,Salary,Income,55200.0,UPI,Monthly salary credited
+2024-12-15,Healthcare,Expense,2998.51,Bank Transfer,Doctor consultation
+2024-12-16,Other,Expense,1602.79,Debit Card,Donation
+2024-12-16,Other,Expense,2020.19,UPI,Donation
+2024-12-18,Other,Expense,2274.25,UPI,Miscellaneous expense
+2024-12-18,Travel,Expense,727.5,Cash,Flight booking
+2024-12-19,Shopping,Expense,952.16,Bank Transfer,Electronics purchase
+2024-12-20,Food,Expense,1167.37,Debit Card,Online food order
+2024-12-21,Healthcare,Expense,2559.63,Bank Transfer,Doctor consultation
+2024-12-21,Food,Expense,1232.22,Cash,Groceries
+2024-12-21,Bills,Expense,1215.8,UPI,Mobile recharge
+2024-12-21,Bills,Expense,833.14,UPI,Internet bill
+2024-12-22,Education,Expense,7240.68,Debit Card,Tuition fee
+2024-12-23,Healthcare,Expense,6444.78,Bank Transfer,Health checkup
+2024-12-24,Freelancing,Income,10089.17,Debit Card,Freelance project payment
+2024-12-25,Salary,Income,53900.0,UPI,Monthly salary credited
+2024-12-26,Food,Expense,847.79,Debit Card,Groceries
+2024-12-27,Travel,Expense,3272.68,Debit Card,Cab fare
+2024-12-29,Investment,Income,9932.84,Cash,Mutual fund returns
+2024-12-29,Shopping,Expense,3097.68,Cash,Clothing purchase
+2024-12-30,Entertainment,Expense,2079.12,Cash,Streaming subscription
+2024-12-30,Travel,Expense,4499.82,Credit Card,Cab fare
+2024-12-30,Food,Expense,171.83,Debit Card,Online food order
+2024-12-30,Entertainment,Expense,1888.57,Credit Card,Streaming subscription
+2024-12-31,Shopping,Expense,1928.65,Debit Card,Online shopping order
+2024-12-31,Healthcare,Expense,773.35,Debit Card,Doctor consultation
+2024-12-31,Other,Expense,1141.43,Bank Transfer,Gift purchase
+2024-12-31,Salary,Income,45000.0,Credit Card,Company payroll
+2024-12-31,Shopping,Expense,2837.13,Cash,Electronics purchase
